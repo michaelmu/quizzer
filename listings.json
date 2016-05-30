@@ -1,25 +1,29 @@
-{ "listings":[
-    {"Name": "Cubehouse in center of Rotterdam",
-    "Description": "You are welcome to experience sleeping in a cubehouse in the centre of Rotterdam.",
-    "Location": "Rotterdam, Netherlands",
-    "Details": "Entire home/apt, sleeps 4",
-    "URL": "http://www.airbnb.com/rooms/817858?wl_source=list&wl_id=1&role=public",
-    "images": [
+{
+  "listings": [
+    {
+      "Name": "Cubehouse in center of Rotterdam",
+      "Description": "You are welcome to experience sleeping in a cubehouse in the centre of Rotterdam.",
+      "Location": "Rotterdam, Netherlands",
+      "Details": "Entire home/apt, sleeps 4",
+      "URL": "http://www.airbnb.com/rooms/817858?wl_source=list&wl_id=1&role=public",
+      "images": [
         "https://a1.muscache.com/im/pictures/16536689/438600dd_original.jpg?aki_policy=large",
         "https://a2.muscache.com/im/pictures/16536733/dceb46ba_original.jpg?aki_policy=large",
         "https://a0.muscache.com/im/pictures/16536657/124d1c4f_original.jpg?aki_policy=large"
-        ]
+      ]
     },
-    {"Name": "Tile House",
-    "Description": "Cradled inside and outside by a mosaic made of Mexican tile, smalti, handmade Perry Hoffman ceramics, tile and fused glass, found desert tiles, found objects, stained glass and ceramic bric-brac, THERE you find yourself situated in complete silence, watching the desert light crawl across the fast and intricate landscape which is ALL around you.",
-    "Location": "Twentynine Palms, CA",
-    "Details": "Entire home/apt, sleeps 4",
-    "URL": "http://www.airbnb.com/rooms/817858?wl_source=list&wl_id=1&role=public",
-    "images": [
+    {
+      "Name": "Tile House",
+      "Description": "Cradled inside and outside by a mosaic made of Mexican tile, smalti, handmade Perry Hoffman ceramics, tile and fused glass, found desert tiles, found objects, stained glass and ceramic bric-brac, THERE you find yourself situated in complete silence, watching the desert light crawl across the fast and intricate landscape which is ALL around you.",
+      "Location": "Twentynine Palms, CA",
+      "Details": "Entire home/apt, sleeps 4",
+      "URL": "http://www.airbnb.com/rooms/817858?wl_source=list&wl_id=1&role=public",
+      "images": [
         "https://a1.muscache.com/im/pictures/22032704/c17b4c7d8_original.jpg?aki_policy=large",
         "https://a2.muscache.com/im/pictures/22027582/b82d0a23_original.jpg?aki_policy=large",
         "https://a0.muscache.com/im/pictures/22027401/bf5df844_original.jpg?aki_policy=large"
-        ]
-    },
-]
+      ]
+    }
+    
+  ]
 }
