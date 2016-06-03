@@ -1,8 +1,18 @@
-{ "Questions":[
-    "Do you like dogs?",
-    "How many kids do you want?",
-    "Do you like oranges?",
-    "What's the first thing you do when you wake up?",
-    "Favorite beverage?"
+[{
+    "text": "Do you like dogs?",
+    "type": "yn"
+}, {
+    "text": "How many siblings do you have?",
+    "type": "numeric"
+}, {
+    "text": "Do you like oranges?",
+    "type": "yn"
+}, {
+    "text": "What's the first thing you do when you wake up?",
+    "type": "multiple",
+    "choices": [
+        "Brush my teeth",
+        "Walk my dog",
+        "Drink Coffee"
     ]
-}
+}]
