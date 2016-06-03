@@ -1,12 +1,14 @@
 [{
     "text": "Do you like dogs?",
-    "type": "yn"
+    "type": "multiple",
+    "options": ["Yes", "No"]
 }, {
     "text": "How many siblings do you have?",
     "type": "numeric"
 }, {
     "text": "Do you like oranges?",
-    "type": "yn"
+    "type": "multiple",
+    "options": ["Yes", "No"]
 }, {
     "text": "What's the first thing you do when you wake up?",
     "type": "multiple",
