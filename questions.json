@@ -1,17 +1,21 @@
 [{
     "text": "Do you like dogs?",
     "type": "multiple",
+    "imgUrl": "http://i.imgur.com/SazaHUq.jpg",
     "options": ["Yes", "No"]
 }, {
     "text": "How many siblings do you have?",
-    "type": "numeric"
+    "type": "numeric",
+    "imgUrl": "http://i.imgur.com/yhQh66j.jpg"
 }, {
     "text": "Do you like oranges?",
     "type": "multiple",
+    "imgUrl": "https://i.imgflip.com/c6uml.jpg",
     "options": ["Yes", "No"]
 }, {
     "text": "What's the first thing you do when you wake up?",
     "type": "multiple",
+    "imgUrl": "http://www.fitwirr.com/media/2015/11/11/Morning-exercise-to-get-in-shape.jpg",
     "options": [
         "Brush my teeth",
         "Walk my dog",
