@@ -12,7 +12,7 @@
 }, {
     "text": "What's the first thing you do when you wake up?",
     "type": "multiple",
-    "choices": [
+    "options": [
         "Brush my teeth",
         "Walk my dog",
         "Drink Coffee"
