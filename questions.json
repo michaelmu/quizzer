@@ -1,11 +1,11 @@
-[{
+[{  "index": "1",
     "text": "Do you like dogs?",
     "imgUrl": "http://i.imgur.com/SazaHUq.jpg",
     "options": [
         { "1": "Yes" }, 
         { "2": "No" }
     ]
-}, {
+}, {"index": "2",
     "text": "How many siblings do you have?",
     "imgUrl": "http://i.imgur.com/yhQh66j.jpg",
     "options": [
@@ -14,14 +14,14 @@
         { "3": "Between 4 and 7" },
         { "4": "More than 7"}
     ]
-}, {
+}, {"index": "3",
     "text": "Do you like oranges?",
     "imgUrl": "https://i.imgflip.com/c6uml.jpg",
     "options": [
         { "1": "Yes" }, 
         { "2": "No" }
     ]
-}, {
+}, {"index": "4",
     "text": "What's the first thing you do when you wake up?",
     "imgUrl": "http://www.fitwirr.com/media/2015/11/11/Morning-exercise-to-get-in-shape.jpg",
     "options": [
